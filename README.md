@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a Front-End Developer<br>Web Programmer<br>Wordpress Web Designer<br><br>
+👩🏻‍💻 Im a Front-End Developer<br>💻 Web Programmer<br>💙 Wordpress Web Designer<br><br>
 
 
 ## 🌐 Socials:
