@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Im a Front-End Developer<br>💻 Wordpress Web Designer<br>💙 Dijital Marketing<br><br>
+👩🏻‍💻 Im a Back-End Developer<br>💻 Wordpress Web Designer<br>💙 Dijital Marketing<br><br>
 
 
 ## 🌐 Socials:
