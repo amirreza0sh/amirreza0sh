@@ -1,5 +1,5 @@
 # 💫 About Me:
-im a BackEnd Developer<br>Wordpress web designer
+👨‍💻 im a BackEnd Developer<br>💻 Wordpress web designer
 
 
 ## 🌐 Socials:
