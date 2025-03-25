@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name,s Amirreza<br>and Im DevOps Engineer
+Hi my name,s Amirreza<br>And the son of the technology & DevOps 
 
 
 ## 🌐 Socials:
