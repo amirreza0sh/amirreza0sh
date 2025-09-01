@@ -1,5 +1,5 @@
 # 💫 About Me:
-DevOps Engineer<br>IT Engineer
+DevOps / IT Engineer
 
 
 ## 🌐 Socials:
