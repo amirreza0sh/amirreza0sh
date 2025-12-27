@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amirreza Shaerpour</h1>
 <h3 align="center">A passionate Software/DevOps Engineer from Iran</h3>
+    <p align="right"> <img src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe" width="400" alt="coding gif"> </p>
+
 
 - 🌱 I’m currently learning **DevOps tools**
 
