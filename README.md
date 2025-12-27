@@ -45,7 +45,7 @@ Skilled in system administration, CI/CD concepts, and performance optimization, 
 <a href="https://www.linkedin.com/in/amirreza-shaerpour/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
 <a href="mailto:amirshaerpour.ir@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="40" /></a>
 <a href="https://www.instagram.com/amirshaerpour.ir/"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="email" height="40" /></a>
-<a href="https://x.com/AmirShaerpour"><img align="center" src="https://skillicons.dev/icons?i=x" alt="email" height="40" /></a>
+<a href="https://x.com/AmirShaerpour"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="email" height="40" /></a>
 </p>
 
 
