@@ -45,8 +45,8 @@ Skilled in system administration, CI/CD concepts, and performance optimization, 
 <!-- Connect -->
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/erfan-yousefii/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
-<a href="mailto:erfanyousefi.co@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="40" /></a>
+<a href="https://www.linkedin.com/in/amirreza-shaerpour/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
+<a href="mailto:amirshaerpour.ir@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="40" /></a>
 </p>
 
 
