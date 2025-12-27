@@ -6,7 +6,7 @@
 
 <h2 align="left">About me</h2>
 <p align="left">
-   Highly motivated and detail-oriented <b>Software / DevOps Engineer</b> with hands-on experience in designing, deploying, and maintaining reliable systems. Strong expertise in <b>Linux environments, automation, and scripting using Bash</b>, along with solid development experience in <b>Golang</b> and <b>Wordpress</b> and <b>Java</b> for building efficient and scalable applications.
+   Highly motivated and detail-oriented <b>Software / DevOps Engineer</b> with hands-on experience in designing, deploying, and maintaining reliable systems. Strong expertise in <b>Linux environments, automation, and scripting using Bash</b>, along with solid development experience in <b>Golang</b> and <b>Python</b> and <b>Java</b> for building efficient and scalable applications.
 
 Skilled in system administration, CI/CD concepts, and performance optimization, with a strong focus on stability, security, and operational excellence. Passionate about continuous learning, improving infrastructure workflows, and applying best practices to deliver robust and maintainable software solutions.
 </p>
