@@ -25,7 +25,7 @@ Skilled in system administration, CI/CD concepts, and performance optimization, 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,vim" />
   </a>
-</p> ] 
+</p>
 
 #### Queue
 [![My Skills](https://skillicons.dev/icons?i=kafka,rabbitmq)]()
