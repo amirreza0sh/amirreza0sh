@@ -1,32 +1,55 @@
-<h1 align="center">Hi 👋, I'm Amirreza Shaerpour</h1>
-<h3 align="center">A passionate Software/DevOps Engineer from Iran</h3>
 
 
-- 🌱 I’m currently learning **DevOps tools**
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 👨‍💻 All of my projects are available at [http://amirportfoliosamples.ir/](http://amirportfoliosamples.ir/)
+<p align="left">My name's Amirreza Shaerpour, I'm from Iran,Gilan</p>
 
-- 📝 I regularly write articles on [https://amirshaerpour.ir/](https://amirshaerpour.ir/)
-
-- 💬 Ask me about **Go , Java , Linux , Wordpress**
-
-- 📫 How to reach me **amirshaerpour.ir@gmail.com**
-
-- 📄 Know about my experiences [https://amirshaerpour.ir/RESUME.pdf](https://amirshaerpour.ir/RESUME.pdf)
-
-- ⚡ Fun fact **Computer that's the best chois for smart peaple**
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">About me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/amirrezashaerpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirrezashaerpour" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/29563865/amirreza-shaerpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/29563865/amirreza-shaerpour" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/amirreza0sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/amirreza0sh" height="30" width="40" /></a>
-<a href="https://fb.com/amirshaerpour.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amirshaerpour.ir" height="30" width="40" /></a>
-<a href="https://instagram.com/amirshaerpour.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirshaerpour.ir" height="30" width="40" /></a>
+   Highly motivated and detail-oriented Software Engineer & DevOps Engineer with hands-on experience in designing, deploying, and maintaining reliable systems. Strong expertise in Linux environments, automation, and scripting using Bash, along with solid development experience in Golang and Java for building efficient and scalable applications.
+
+Skilled in system administration, CI/CD concepts, and performance optimization, with a strong focus on stability, security, and operational excellence. Passionate about continuous learning, improving infrastructure workflows, and applying best practices to deliver robust and maintainable software solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2 align="left">My Skills...</h2>
+
+#### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,express,nestjs)]()  
+<img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" />
+
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite)]()
+
+#### DevOps
+[![My Skills]([https://skillicons.dev/icons?i=docker,linux,bash](https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim))]()
+
+#### API
+[![My Skills](https://skillicons.dev/icons?i=graphql)]()  
+<p style="margin-left:15px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png?20200308235956" height="40" style="padding:5px; background:#7daff5b0; border-radius:12px;" alt="Socket.io logo" />
+</p>
+
+#### Queue
+[![My Skills](https://skillicons.dev/icons?i=kafka,rabbitmq)]()
+
+#### Testing
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Jest logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Mocha logo" />
+  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_chai.png?raw=true" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Chai logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Puppeteer logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Jasmine logo" />
+</div>
+
+---
+
+
+<!-- Connect -->
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/erfan-yousefii/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
+<a href="mailto:erfanyousefi.co@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="40" /></a>
+</p>
 
 
 
