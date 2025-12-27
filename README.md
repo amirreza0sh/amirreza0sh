@@ -21,7 +21,7 @@ Skilled in system administration, CI/CD concepts, and performance optimization, 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite)]()
 
 #### DevOps
-[![My Skills] <p align="left">
+ <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,vim" />
   </a>
