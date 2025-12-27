@@ -26,11 +26,6 @@ Skilled in system administration, CI/CD concepts, and performance optimization, 
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,vim" />
   </a>
 </p>
-#### API
-[![My Skills](https://skillicons.dev/icons?i=graphql)]()  
-<p style="margin-left:15px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png?20200308235956" height="40" style="padding:5px; background:#7daff5b0; border-radius:12px;" alt="Socket.io logo" />
-</p>
 
 #### Queue
 [![My Skills](https://skillicons.dev/icons?i=kafka,rabbitmq)]()
