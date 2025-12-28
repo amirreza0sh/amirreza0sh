@@ -25,7 +25,7 @@ Skilled in system administration, CI/CD concepts, and performance optimization, 
   </a>
 </p>
 
-//#### Testing
+<!-- <div>#### Testing</div> -->
 <!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Jest logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Mocha logo" />
