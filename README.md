@@ -21,7 +21,7 @@ Skilled in system administration, CI/CD concepts, and performance optimization, 
 #### DevOps
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,git,jenkins,kubernetes,docker,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=git,jenkins,kubernetes,docker,linux,vim" />
   </a>
 </p>
 
