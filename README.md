@@ -1,4 +1,4 @@
-<h1 align="left">Hey :) 👋 What's up ?</h1>
+<h1 align="left">Hey :) 👋 What's Up ?</h1>
 
 <p align="left">My name's Amirreza Shaerpour, I'm from Iran,Gilan</p>
 
