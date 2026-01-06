@@ -2,7 +2,7 @@
 
 <p align="left">My name's Amirreza Shaerpour, I'm from Iran,Gilan</p>
 
-<h2 align="left">About me :)</h2>     
+<h2 align="left">About me </h2>     
 <p align="left">
    Highly motivated and detail-oriented <b>Software / DevOps Engineer</b> with hands-on experience in designing, deploying, and maintaining reliable systems. Strong expertise in <b>Linux environments, automation, and scripting using Bash</b>, along with solid development experience in <b>Golang</b> and <b>Python</b> and <b>Java</b> for building efficient and scalable applications.
 
