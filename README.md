@@ -25,14 +25,14 @@ Skilled in system administration, CI/CD concepts, and performance optimization, 
   </a>
 </p>
 
-<div>#### Testing</div> 
+<!-- <div>#### Testing</div> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Jest logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Mocha logo" />
   <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_chai.png?raw=true" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Chai logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Puppeteer logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Jasmine logo" />
-</div> 
+</div>  -->
 
 ---
 
