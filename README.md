@@ -5,9 +5,11 @@
 <h2 align="left">About me</h2>    
 
 <p align="left">
-   Highly motivated and detail-oriented <b>Software / DevOps Engineer</b> with hands-on experience in designing, deploying, and maintaining reliable systems. Strong expertise in <b>Linux environments, automation, and scripting using Bash</b>, along with solid development experience in <b>Golang</b> and <b>Python</b> and <b>Java</b> for building efficient and scalable applications.
+   Full-Stack Software Engineer with solid experience in designing and delivering scalable web applications across backend and frontend domains. Strong expertise in Golang (Gin) and PHP (Laravel) for high-performance backend services, combined with modern frontend development using React and Tailwind CSS to build responsive, user-centric interfaces.
 
-Skilled in system administration, CI/CD concepts, and performance optimization, with a strong focus on stability, security, and operational excellence. Passionate about continuous learning, improving infrastructure workflows, and applying best practices to deliver robust and maintainable software solutions.                        
+Experienced in database design and optimization with MySQL, PostgreSQL, and MongoDB, as well as caching strategies using Redis. Comfortable working in Linux-based production environments and implementing DevOps best practices with Docker, Kubernetes, Git, and Jenkins to ensure reliable CI/CD workflows and containerized deployments.
+
+Focused on clean architecture, code quality, system reliability, and security. Continuously improving technical capabilities and applying industry best practices to deliver efficient, maintainable, and scalable software solutions in fast-paced environments.                   
 </p>
 
 
