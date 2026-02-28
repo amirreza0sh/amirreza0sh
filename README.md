@@ -16,11 +16,11 @@ Skilled in system administration, CI/CD concepts, and performance optimization, 
 
 #### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=go,php,laravel,js,react,html,css,tailwind)]()
+[![My Skills](https://skillicons.dev/icons?i=go,php,laravel,js,react,html,css,tailwind&theme=light)](https://skillicons.dev))]()
 <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" />
 
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=light)](https://skillicons.dev))]()
 
 #### DevOps
  <p align="left">
