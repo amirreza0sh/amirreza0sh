@@ -15,8 +15,8 @@ Skilled in system administration, CI/CD concepts, and performance optimization, 
 <h2 align="left">My Skills...</h2>
 
 #### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=go,py&theme=light)
+
+[![My Skills](https://skillicons.dev/icons?i=go,php,laravel,js,react,html,css,tailwind)
 <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" />
 
 #### Databases
