@@ -12,8 +12,6 @@ Experienced in database design and optimization with MySQL, PostgreSQL, and Mong
 Focused on clean architecture, code quality, system reliability, and security. Continuously improving technical capabilities and applying industry best practices to deliver efficient, maintainable, and scalable software solutions in fast-paced environments.                   
 </p>
 
-
-
 <h2 align="left">My Skills...</h2>
 
 #### Languages & Frameworks
