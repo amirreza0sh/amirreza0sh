@@ -5,7 +5,7 @@
 <h2 align="left">About me</h2>    
 
 <p align="left">
-   Full-Stack Software Engineer with solid experience in designing and delivering scalable web applications across backend and frontend domains. Strong expertise in Golang (Gin) and PHP (Laravel) for high-performance backend services, combined with modern frontend development using React and Tailwind CSS to build responsive, user-centric interfaces.
+   <b>Full-Stack Software Engineer</b> with solid experience in designing and delivering scalable web applications across <b>Backend</b> and <b>Frontend</b> domains. Strong expertise in <b>Golang (Gin) and PHP (Laravel)</b> for high-performance backend services, combined with modern frontend development using React and Tailwind CSS to build responsive, user-centric interfaces.
 
 Experienced in database design and optimization with MySQL, PostgreSQL, and MongoDB, as well as caching strategies using Redis. Comfortable working in Linux-based production environments and implementing DevOps best practices with Docker, Kubernetes, Git, and Jenkins to ensure reliable CI/CD workflows and containerized deployments.
 
