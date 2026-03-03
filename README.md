@@ -1,6 +1,6 @@
 <h1 align="left">Hey👋 What's Up ?</h1>
                   
-<p align="left">My name's <b>Amirreza Shaerpour</b>, I'm from Iran,Gilan</p>
+<p align="left">My name's <b>Amirreza Shaerpour</b>, I'm from Iran , Gilan</p>
 
 <h2 align="left">About me</h2>    
 
