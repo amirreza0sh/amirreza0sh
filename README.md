@@ -25,7 +25,7 @@ Focused on clean architecture, code quality, system reliability, and security. C
 #### DevOps
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes,vim,jenkins" />
+    <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,vim,jenkins" />
   </a>
 </p>
 
