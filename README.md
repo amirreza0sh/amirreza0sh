@@ -5,11 +5,10 @@
 <h2 align="left">About me</h2>    
 
 <p align="left">
-   <b>Full-Stack Software Engineer</b> with solid experience in designing and delivering scalable web applications across <b>Backend</b> and <b>Frontend</b> domains. Strong expertise in <b>Golang (Gin) and PHP (Laravel)</b> for high-performance backend services, combined with modern frontend development using React and Tailwind CSS to build responsive, user-centric interfaces.
-
-Experienced in database design and optimization with MySQL, PostgreSQL, and MongoDB, as well as caching strategies using Redis. Comfortable working in Linux-based production environments and implementing DevOps best practices with Docker, Kubernetes, Git, and Jenkins to ensure reliable CI/CD workflows and containerized deployments.
-
-Focused on clean architecture, code quality, system reliability, and security. Continuously improving technical capabilities and applying industry best practices to deliver efficient, maintainable, and scalable software solutions in fast-paced environments.             
+   <b>Junior DevOps Engineer with approximately one year of hands-on experience supporting CI/CD pipelines, containerized deployments, and cloud infrastructure in fast-paced development environments. Foundational expertise in Docker and Kubernetes, with practical experience deploying and managing containerized applications in staging and production environments.
+Familiar with building and maintaining CI/CD workflows using Jenkins and GitLab CI, contributing to faster and more reliable software delivery processes. Gained working knowledge of Linux-based environments, shell scripting, and infrastructure automation using Terraform and Ansible under team guidance.
+Exposure to cloud platforms including AWS and GCP, with experience provisioning basic infrastructure resources and supporting cloud operations. Developing skills in monitoring and observability using Prometheus and Grafana to track system health and assist in incident response.
+Eager to deepen expertise in DevOps practices, platform engineering, and automation tooling. Committed to continuous learning, clean operational workflows, and supporting engineering teams in delivering stable, scalable, and maintainable software systems.           
 </p>
 
 <h2 align="left">My Skills...</h2>
