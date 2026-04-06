@@ -15,7 +15,7 @@ Eager to deepen expertise in DevOps practices, platform engineering, and automat
 
 #### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=go,py)]()
+[![My Skills](https://skillicons.dev/icons?i=py,go)]()
 <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" />
 
 #### Databases
