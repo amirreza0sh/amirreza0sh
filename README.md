@@ -5,8 +5,9 @@
 <h2 align="left">About me</h2>    
 
 <p align="left">
-  <b>Software Engineer (Go)</b>  
-* with 1 year hands-on experience 
+  
+ - <b>Software Engineer (Go)</b>  
+ - with 1 year hands-on experience -
 
 - Go (Golang): Writing and maintaining backend services and automation tools  
 - Linux: Deploying and managing Go applications on Linux-based servers  
