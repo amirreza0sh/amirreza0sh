@@ -6,10 +6,25 @@
 
 <p align="left">
   
-   <b>Junior DevOps Engineer with approximately one year of hands-on experience supporting CI/CD pipelines, containerized deployments, and cloud infrastructure in fast-paced development environments. Foundational expertise in Docker and Kubernetes, with practical experience deploying and managing containerized applications in staging and production environments.
-Familiar with building and maintaining CI/CD workflows using Jenkins and GitLab CI, contributing to faster and more reliable software delivery processes. Gained working knowledge of Linux-based environments, shell scripting, and infrastructure automation using Terraform and Ansible under team guidance.
-Exposure to cloud platforms including AWS and GCP, with experience provisioning basic infrastructure resources and supporting cloud operations. Developing skills in monitoring and observability using Prometheus and Grafana to track system health and assist in incident response.
-Eager to deepen expertise in DevOps practices, platform engineering, and automation tooling. Committed to continuous learning, clean operational workflows, and supporting engineering teams in delivering stable, scalable, and maintainable software systems.           
+   <b>Software Engineer (Go)
+*with 1 year hands-on experience*
+
+Go (Golang): Writing and maintaining backend services and automation tools
+
+Linux: Deploying and managing Go applications on Linux-based servers
+
+Docker: Containerizing Go services using Docker and Docker Compose
+
+Kubernetes: Basic orchestration with Minikube / K3s for small Go projects
+
+Git: Version control and collaboration via GitHub, GitLab
+
+Python: Writing automation scripts for development and deployment tasks
+
+Plus (supporting skills):
+CI/CD pipelines (GitHub Actions, GitLab CI), Ansible playbooks, Nginx reverse proxy, Prometheus + Grafana monitoring, MinIO (S3-compatible storage), Bash scripting, backup automation
+
+Currently focusing on: Production-grade Kubernetes, advanced CI/CD, and Ansible for Go-based systems           
 </p>
 
 <h2 align="left">My Skills...</h2>
