@@ -10,17 +10,11 @@
 *with 1 year hands-on experience*
 
 Go (Golang): Writing and maintaining backend services and automation tools
-
 Linux: Deploying and managing Go applications on Linux-based servers
-
 Docker: Containerizing Go services using Docker and Docker Compose
-
 Kubernetes: Basic orchestration with Minikube / K3s for small Go projects
-
 Git: Version control and collaboration via GitHub, GitLab
-
 Python: Writing automation scripts for development and deployment tasks
-
 Plus (supporting skills):
 CI/CD pipelines (GitHub Actions, GitLab CI), Ansible playbooks, Nginx reverse proxy, Prometheus + Grafana monitoring, MinIO (S3-compatible storage), Bash scripting, backup automation
 
