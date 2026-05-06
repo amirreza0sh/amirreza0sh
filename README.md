@@ -7,7 +7,7 @@
 <p align="left">
   
  - <b>Software Engineer (Go)</b>  
- - with 1 year hands-on experience -
+ - with 1 year hands-on experience 
 
 - Go (Golang): Writing and maintaining backend services and automation tools  
 - Linux: Deploying and managing Go applications on Linux-based servers  
