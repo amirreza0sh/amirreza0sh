@@ -6,9 +6,9 @@
 
 <p align="left">
   
- - <b>Software Engineer</b> with 1 year of hands-on experience in backend development and infrastructure automation. Skilled in Go (Golang) for building and maintaining backend services, APIs, and automation tools, with solid experience deploying and managing applications on Linux-based servers. Experienced in containerization using Docker and Docker Compose, along with basic Kubernetes orchestration using Minikube and K3s for small-scale projects. Familiar with Git workflows and collaborative development using GitHub and GitLab. Also experienced in Python scripting for automation and deployment tasks, as well as managing and customizing WordPress websites including themes, plugins, and deployments.
+ - <b>Software Engineer with 2 year of hands-on experience in backend development, frontend technologies, and infrastructure automation. Skilled in Go (Golang) for building backend services, APIs, and automation tools, along with frontend development using HTML, CSS, Tailwind CSS, JavaScript, React, and Next.js.
 
-- Additional supporting skills include CI/CD pipeline development with GitHub Actions and GitLab CI, infrastructure automation with Ansible, configuring Nginx as a reverse proxy, monitoring systems using Prometheus and Grafana, working with MinIO object storage, Bash scripting, and backup automation. Currently focused on improving expertise in production-grade Kubernetes environments, advanced CI/CD workflows, and scalable automation for Go-based systems.   
+- Experienced with Linux server management, Docker, Docker Compose, Git, GitHub, and GitLab workflows. Also familiar with CI/CD pipelines using GitHub Actions and GitLab CI, Nginx configuration, Ansible automation, Prometheus, Grafana, Bash scripting, and WordPress management.  
 </p>
 
 <h2 align="left">My Skills...</h2>
