@@ -6,7 +6,7 @@
 
 <p align="left">
   
- - <b>Software Engineer with 2 year of hands-on experience in backend development, frontend technologies, and infrastructure automation. Skilled in Go (Golang) for building backend services, APIs, and automation tools, along with frontend development using HTML, CSS, Tailwind CSS, JavaScript, React, and Next.js.
+ - <b>Software Engineer</b> with 2 year of hands-on experience in backend development, frontend technologies, and infrastructure automation. Skilled in Go (Golang) for building backend services, APIs, and automation tools, along with frontend development using <b>HTML, CSS, Tailwind CSS, JavaScript, React, and Next.js</b>.
 
 - Experienced with Linux server management, Docker, Docker Compose, Git, GitHub, and GitLab workflows. Also familiar with CI/CD pipelines using GitHub Actions and GitLab CI, Nginx configuration, Ansible automation, Prometheus, Grafana, Bash scripting, and WordPress management.  
 </p>
