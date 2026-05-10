@@ -15,7 +15,7 @@
 
 #### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=go,html,css,tailwind,js,react,nextjs,figma,wordpress)]()
+[![My Skills](https://skillicons.dev/icons?i=go,html,css,tailwind,js,json,php,laravel,figma,wordpress)]()
 <!-- <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" /> -->
 
 #### Databases
