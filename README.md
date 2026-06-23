@@ -14,7 +14,7 @@
 
 #### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,wordpress)]()
+[![My Skills](https://skillicons.dev/icons?i=py,wordpress)]()
 <!-- <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" /> -->
 
 #### Databases
