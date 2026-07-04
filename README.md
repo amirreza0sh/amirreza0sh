@@ -7,7 +7,7 @@
 <p align="left">
   
  - <b>Software Engineer</b> with 2 year of hands-on experience in Backend technologies, and infrastructure automation. Skilled in Go (Golang) for building backend services, APIs, and automation tools, along with frontend development 
- - Experienced with Linux server management, Docker, Git, GitHub, and GitLab workflows. Also familiar with CI/CD pipelines using GitHub Actions and GitLab CI, Nginx configuration, Bash scripting, and WordPress & Elementor management.  
+ - Experienced with Linux server management, Docker, Git, GitHub. Also familiar with CI/CD pipelines using GitHub Actions and GitLab CI, Nginx configuration, Bash scripting.  
 </p>
 
 <h2 align="left">My Skills...</h2>
