@@ -6,8 +6,7 @@
 
 <p align="left">
   
- - <b>Software Engineer</b> with 2 year of hands-on experience in Backend technologies, and infrastructure automation. Skilled in Go (Golang) for building backend services, APIs, and automation tools, along with frontend development 
- - Experienced with Linux server management, Docker, Git, GitHub. Also familiar with CI/CD pipelines using GitHub Actions and GitLab CI, Nginx configuration, Bash scripting, and Wordpress for Web Design.  
+ - a Software Engineer who loves automating everything he can :) I work on the backend with Go, building APIs and automation tools, alongside Linux, Docker, Git, and CI/CD pipelines like GitHub Actions and GitLab CI. I also design and build       - websites with --      - WordPress. In this website I try to explain different projects that I had so we can learn together about Infrastructure.  
 </p>
 
 <h2 align="left">My Skills...</h2>
