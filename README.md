@@ -6,7 +6,7 @@
 
 <p align="left">
 
-- a Software Engineer with 2 years of hands-on experience in backend development and infrastructure automation. I love automating everything I can :) I mainly work with Go (Golang) to build backend services, APIs, and automation tools, and I also enjoy frontend development from time to time. Beyond writing code, I spend a lot of time on Linux server management, Docker, and version control with Git and GitHub, along with setting up CI/CD pipelines using GitHub Actions and GitLab CI. I'm also comfortable with Nginx configuration and Bash scripting for day-to-day server tasks. Besides backend work, I design and build websites with WordPress. In this website, I try to document and explain different projects I've worked on, so we can learn together about Infrastructure.
+- a <b>Software Engineer with 2 years</b> of hands-on experience in backend development and infrastructure automation. I love automating everything I can :) I mainly focus on two things: <b>backend programming with Python</b>, where I build APIs, services, and automation tools, and <b>website design with WordPress</b>. Alongside that, I spend a lot of time on Linux server management, Docker, and version control with Git and GitHub, along with setting up CI/CD pipelines using GitHub Actions and GitLab CI. I'm also comfortable with Nginx configuration and Bash scripting for day-to-day server tasks. In this website, I try to document and explain different projects I've worked on, so we can learn together about Infrastructure.
 
 </p>
 
