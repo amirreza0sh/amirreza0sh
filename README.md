@@ -6,36 +6,8 @@
 
 <p align="left">
 
-- a Software Engineer focused on WordPress development and web design
+A Software Engineer focused on WordPress development and web design. I love turning ideas into polished, functional websites :) I mainly focus on two things: WordPress development, where I build custom themes, plugins, and manage everything as an Elementor expert, and building online stores with WooCommerce. Alongside that, I spend a lot of time on Linux server management, Docker, and version control with Git and GitHub, along with front-end development using Tailwind CSS, jQuery, and AJAX. I'm also comfortable working with MySQL and Redis for database management, and I use Figma and Canva for design, plus cPanel and DirectAdmin for hosting management. In this website, I try to document and explain different projects I've worked on, so we can learn together about WordPress and web development.
 
- Elementor expert and WordPress theme & plugin developer
- | Building online stores with WooCommerce
-
-### 🛠 Tech Stack
-
-- Programming Languages
-
-  <b>HTML5, CSS3, JavaScript, PHP, SQL</b>
-
-- Front-End Development
-
-  <b>Responsive Web Design, Tailwind CSS, jQuery, AJAX</b>
-
-- WordPress Development
-
-   <b>Theme & Plugin Development, WooCommerce Development, Elementor Expert, Hooks & Actions, Custom Post Types & Fields, REST API Integration, Performance Optimization, WordPress Security & Maintenance</b>
-
-- Database
-
-   <b>MySQL, Redis</b>
-
-- Infrastructure & Tools
-  
-  <b>Linux | Docker | Git, GitHub | Figma | Canva | cPanel | DirectAdmin</b>
-
-- Additional Skills
-  
-  <b>UI/UX Fundamentals, SEO Fundamentals, Website Optimization, Problem Solving, Team Collaboration</b>
 </p>
 
 <h2 align="left">My Skills...</h2>
