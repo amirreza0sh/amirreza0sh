@@ -34,6 +34,7 @@
   <b>Linux | Docker | Git, GitHub | Figma | Canva | cPanel | DirectAdmin</b>
 
 - Additional Skills
+  
   <b>UI/UX Fundamentals, SEO Fundamentals, Website Optimization, Problem Solving, Team Collaboration</b>
 </p>
 
