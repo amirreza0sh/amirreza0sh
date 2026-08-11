@@ -37,16 +37,16 @@ UI/UX Fundamentals, SEO Fundamentals, Website Optimization, Problem Solving, Tea
 
 #### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=py,wordpress)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,php,wordpress)]()
 <!-- <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" /> -->
 
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,redis)]()
+[![My Skills](https://skillicons.dev/icons?i=mysqlredis)]()
 
 #### DevOps
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,git,docker,vim" />
   </a>
 </p>
 
