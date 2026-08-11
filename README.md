@@ -27,7 +27,7 @@
 
 - Database
 
-MySQL
+  MySQL
 
 - Infrastructure & Tools
   
