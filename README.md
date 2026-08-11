@@ -15,15 +15,15 @@
 
 - Programming Languages
 
-<b>HTML5, CSS3, JavaScript, PHP, SQL</b>
+  <b>HTML5, CSS3, JavaScript, PHP, SQL</b>
 
 - Front-End Development
 
-Responsive Web Design, Tailwind CSS, jQuery, AJAX
+  Responsive Web Design, Tailwind CSS, jQuery, AJAX
 
 - WordPress Development
 
-Theme & Plugin Development, WooCommerce Development, Elementor Expert, Hooks & Actions, Custom Post Types & Fields, REST API Integration, Performance Optimization, WordPress Security & Maintenance
+  Theme & Plugin Development, WooCommerce Development, Elementor Expert, Hooks & Actions, Custom Post Types & Fields, REST API Integration, Performance Optimization, WordPress Security & Maintenance
 
 - Database
 
