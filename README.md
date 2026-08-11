@@ -27,7 +27,7 @@ Theme & Plugin Development, WooCommerce Development, Elementor Expert, Hooks & A
 MySQL
 
 - Infrastructure & Tools
-  Linux | Docker | Git, GitHub | Figma, Canva | cPanel, DirectAdmin
+  Linux | Docker | Git, GitHub | Figma | Canva | cPanel | DirectAdmin
 
 - Additional Skills
 UI/UX Fundamentals, SEO Fundamentals, Website Optimization, Problem Solving, Team Collaboration
@@ -39,9 +39,6 @@ UI/UX Fundamentals, SEO Fundamentals, Website Optimization, Problem Solving, Tea
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,jquery,php,wordpress)]()
 <!-- <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" /> -->
-
-#### Design
-[![My Skills](https://skillicons.dev/icons?i=figma)]()
 
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis)]()
