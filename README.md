@@ -27,7 +27,7 @@
 
 - Database
 
- <b>MySQL</b>
+   <b>MySQL, Redis</b>
 
 - Infrastructure & Tools
   
