@@ -19,22 +19,22 @@
 
 - Front-End Development
 
-  Responsive Web Design, Tailwind CSS, jQuery, AJAX
+  <b>Responsive Web Design, Tailwind CSS, jQuery, AJAX</b>
 
 - WordPress Development
 
-  Theme & Plugin Development, WooCommerce Development, Elementor Expert, Hooks & Actions, Custom Post Types & Fields, REST API Integration, Performance Optimization, WordPress Security & Maintenance
+ <b>Theme & Plugin Development, WooCommerce Development, Elementor Expert, Hooks & Actions, Custom Post Types & Fields, REST API Integration, Performance Optimization, WordPress Security & Maintenance</b>
 
 - Database
 
-  MySQL
+ <b>MySQL</b>
 
 - Infrastructure & Tools
   
-  Linux | Docker | Git, GitHub | Figma | Canva | cPanel | DirectAdmin
+  <b>Linux | Docker | Git, GitHub | Figma | Canva | cPanel | DirectAdmin</b>
 
 - Additional Skills
-UI/UX Fundamentals, SEO Fundamentals, Website Optimization, Problem Solving, Team Collaboration
+  <b>UI/UX Fundamentals, SEO Fundamentals, Website Optimization, Problem Solving, Team Collaboration</b>
 </p>
 
 <h2 align="left">My Skills...</h2>
