@@ -14,7 +14,7 @@
 ### 🛠 Tech Stack
 
 **Programming Languages**
-`HTML5` `CSS3` `JavaScript` `PHP` `SQL`
+- <b>HTML5, CSS3, JavaScript, PHP, SQL</b>
 
 **Front-End Development**
 Responsive Web Design, Bootstrap, Tailwind CSS, jQuery, AJAX
