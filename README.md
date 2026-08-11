@@ -8,8 +8,8 @@
 
 - a Software Engineer focused on WordPress development and web design
 
-🎨 Elementor expert and WordPress theme & plugin developer
-🛒 Building online stores with WooCommerce
+ Elementor expert and WordPress theme & plugin developer
+ | Building online stores with WooCommerce
 
 ### 🛠 Tech Stack
 
@@ -27,9 +27,9 @@ Theme & Plugin Development, WooCommerce Development, Elementor Expert, Hooks & A
 MySQL
 
 - Infrastructure & Tools
-🐧 Linux | 🐳 Docker | 🔧 Git, GitHub | Figma, Canva | cPanel, DirectAdmin
+  Linux | Docker | Git, GitHub | Figma, Canva | cPanel, DirectAdmin
 
-- 🌱 Additional Skills
+- Additional Skills
 UI/UX Fundamentals, SEO Fundamentals, Website Optimization, Problem Solving, Team Collaboration
 </p>
 
