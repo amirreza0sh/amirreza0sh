@@ -6,8 +6,30 @@
 
 <p align="left">
 
-- a <b>Software Engineer with 2 years</b> of hands-on experience in backend development and infrastructure automation. I love automating everything I can :) I mainly focus on two things: <b>backend programming with Python</b>, where I build APIs, services, and automation tools, and <b>website design with WordPress</b>. Alongside that, I spend a lot of time on Linux server management, Docker, and version control with Git and GitHub, along with setting up CI/CD pipelines using GitHub Actions and GitLab CI. I'm also comfortable with Nginx configuration and Bash scripting for day-to-day server tasks. In this website, I try to document and explain different projects I've worked on, so we can learn together about Infrastructure.
+- a Software Engineer focused on WordPress development and web design
 
+🎨 Elementor expert and WordPress theme & plugin developer
+🛒 Building online stores with WooCommerce
+
+### 🛠 Tech Stack
+
+**Programming Languages**
+`HTML5` `CSS3` `JavaScript` `PHP` `SQL`
+
+**Front-End Development**
+Responsive Web Design, Bootstrap, Tailwind CSS, jQuery, AJAX
+
+**WordPress Development**
+Theme & Plugin Development, WooCommerce Development, Elementor Expert, Hooks & Actions, Custom Post Types & Fields, REST API Integration, Performance Optimization, WordPress Security & Maintenance
+
+**Database**
+MySQL
+
+**Infrastructure & Tools**
+🐧 Linux | 🐳 Docker | 🔧 Git, GitHub | Figma, Canva | cPanel, DirectAdmin
+
+### 🌱 Additional Skills
+UI/UX Fundamentals, SEO Fundamentals, Website Optimization, Problem Solving, Team Collaboration
 </p>
 
 <h2 align="left">My Skills...</h2>
