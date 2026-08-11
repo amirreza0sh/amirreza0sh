@@ -13,22 +13,23 @@
 
 ### 🛠 Tech Stack
 
-**Programming Languages**
+- Programming Languages
+
 - <b>HTML5, CSS3, JavaScript, PHP, SQL</b>
 
-**Front-End Development**
+- Front-End Development**
 Responsive Web Design, Bootstrap, Tailwind CSS, jQuery, AJAX
 
-**WordPress Development**
+- WordPress Development**
 Theme & Plugin Development, WooCommerce Development, Elementor Expert, Hooks & Actions, Custom Post Types & Fields, REST API Integration, Performance Optimization, WordPress Security & Maintenance
 
-**Database**
+- Database
 MySQL
 
-**Infrastructure & Tools**
+- Infrastructure & Tools
 🐧 Linux | 🐳 Docker | 🔧 Git, GitHub | Figma, Canva | cPanel, DirectAdmin
 
-### 🌱 Additional Skills
+- 🌱 Additional Skills
 UI/UX Fundamentals, SEO Fundamentals, Website Optimization, Problem Solving, Team Collaboration
 </p>
 
