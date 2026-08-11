@@ -23,7 +23,7 @@
 
 - WordPress Development
 
- <b>Theme & Plugin Development, WooCommerce Development, Elementor Expert, Hooks & Actions, Custom Post Types & Fields, REST API Integration, Performance Optimization, WordPress Security & Maintenance</b>
+   <b>Theme & Plugin Development, WooCommerce Development, Elementor Expert, Hooks & Actions, Custom Post Types & Fields, REST API Integration, Performance Optimization, WordPress Security & Maintenance</b>
 
 - Database
 
