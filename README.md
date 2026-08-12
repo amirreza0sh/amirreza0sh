@@ -6,7 +6,7 @@
 
 <p align="left">
 
-- a <b>Software Engineer</b> 1 year's focused on <b>WordPress development and web design</b>. I love turning ideas into polished, functional websites :) I mainly focus on two things: <b>WordPress development</b>, where I build custom themes, plugins, and manage everything as an <b>Elementor expert</b>, and building online stores with <b>WooCommerce</b>. Alongside that, I spend a lot of time on Linux server management, Docker, and version control with Git and GitHub, along with front-end development using Tailwind CSS, jQuery, and AJAX. I'm also comfortable working with MySQL and Redis for database management, and I use Figma and Canva for design, plus cPanel and DirectAdmin for hosting management. In this website, I try to document and explain different projects I've worked on, so we can learn together about WordPress and web development.
+- a <b>Software Engineer</b> 1 year's focused on <b>WordPress development and web design</b>. I love turning ideas into polished, functional websites :) I mainly focus on two things: <b>WordPress development</b>, where I build custom themes, plugins, and manage everything as an <b>Elementor</b> expert, and building online stores with <b>WooCommerce</b>. Alongside that, I spend a lot of time on <b>Linux server management</b>, <b>Docker</b>, and version control with Git and GitHub, along with front-end development using Tailwind CSS, jQuery, and AJAX. I'm also comfortable working with MySQL and Redis for database management, and I use Figma and Canva for design, plus cPanel and DirectAdmin for hosting management. In this website, I try to document and explain different projects I've worked on, so we can learn together about WordPress and web development.
 
 </p>
 
