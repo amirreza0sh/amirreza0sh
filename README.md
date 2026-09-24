@@ -23,7 +23,7 @@
 #### DevOps
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,docker,vim" />
   </a>
 </p>
 
