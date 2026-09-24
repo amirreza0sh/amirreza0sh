@@ -6,7 +6,7 @@
 
 <p align="left">
 
-- a <b>Software Engineer</b> with 2 years of experience, working with <b>Kotlin</b> and <b>Android development</b>, along with <b>Python</b> for backend development. I love turning ideas into polished, functional products :) Alongside that, I spend a lot of time on Linux server management, Docker, and version control with Git and GitHub, along with front-end development using Tailwind CSS, jQuery, and JS. I'm also comfortable working with MySQL and Redis for database management, and I use Figma and Canva for design, plus cPanel and DirectAdmin for hosting management. I also focus on WordPress development and web design, where I build custom themes, plugins, and manage everything as an Elementor expert, and building online stores with WooCommerce. In this website, I try to document and explain different projects I've worked on. I also work with WordPress on website design.
+- a <b>Software Engineer</b> with 2 years of experience, working with <b>Kotlin</b> and <b>Android development</b>, along with <b>Python</b> for backend development. I love turning ideas into polished, functional products :) Alongside that, I spend a lot of time on Linux server management, Docker, and version control with Git and GitHub, along with front-end development using Tailwind CSS, jQuery, and JS. I'm also comfortable working with MySQL and Redis for database management, and I use Figma for design projects, plus cPanel and DirectAdmin for hosting management. I also focus on WordPress development and web design, where I build custom themes, plugins, and manage everything as an Elementor expert, and building online stores with WooCommerce. In this website, I try to document and explain different projects I've worked on. I also work with WordPress on website design.
 
 </p>
 
@@ -14,7 +14,7 @@
 
 #### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,py,wordpress,tailwind)]()
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,py,wordpress,tailwind,figma)]()
 <!-- <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" /> -->
 
 #### Databases
