@@ -14,16 +14,16 @@
 
 #### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,jquery,py,wordpress)]()
+[![My Skills](https://skillicons.dev/icons?i=kotlin,py,wordpress,html,css,tailwind)]()
 <!-- <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" /> -->
 
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,redis)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql)]()
 
 #### DevOps
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,docker,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,vim" />
   </a>
 </p>
 
