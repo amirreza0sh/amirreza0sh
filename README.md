@@ -1,4 +1,4 @@
-<h1 align="left">Hey👋 What's Up ?</h1>
+<h1 align="left">Hey👋 What's Up ?!</h1>
                   
 <p align="left">My name's <b>Amirreza Shaerpour</b>, I'm from Iran , Gilan</p>
 
@@ -14,7 +14,7 @@
 
 #### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,py,wordpress,tailwind,html,css,figma)]()
+[![My Skills](https://skillicons.dev/icons?i=kotlin,py,wordpress,tailwind,html,css,figma)]()
 <!-- <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" /> -->
 
 #### Databases
