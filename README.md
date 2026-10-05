@@ -6,7 +6,7 @@
 
 <p align="left">
 
-- a <b>Software Engineer</b> with 2 years of experience, working with <b>Kotlin</b> and <b>Android development</b>, along with <b>Python</b> for backend development. I love turning ideas into polished, functional products :) Alongside that, I spend a lot of time on Linux server management, Docker, and version control with Git and GitHub, along with front-end development using Tailwind CSS and JS. I'm also comfortable working with MySQL and Redis for database management, and I use Figma for design projects, plus cPanel and DirectAdmin for hosting management. I also focus on WordPress development and web design, where I build custom themes, plugins, and manage everything as an Elementor expert, and building online stores with WooCommerce. In this website, I try to document and explain different projects I've worked on. I also work with WordPress on website design.
+- I'm a Software Engineer and Python developer working across backend development and DevOps. Linux server management, Git, and Docker are the core of my daily workflow, and I use related tools like MySQL, Redis, and cPanel/DirectAdmin to support them. I also write Go (Golang), and I have hands-on experience in web design and WordPress development. Lately, I've been exploring Kotlin and testing it out in new projects. I love turning ideas into polished, functional products :) On this website, I document and explain the projects I've worked on.
 
 </p>
 
