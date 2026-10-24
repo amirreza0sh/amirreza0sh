@@ -6,7 +6,10 @@
 
 <p align="left">
 
-- I'm a Software Engineer and Python developer working across backend development and DevOps. Linux server management, Git, and Docker are the core of my daily workflow, and I use related tools like MySQL, Redis, and cPanel/DirectAdmin to support them. I also write Go (Golang), and I have hands-on experience in web design and WordPress development. Lately, I've been exploring Kotlin and testing it out in new projects. I love turning ideas into polished, functional products :) On this website, I document and explain the projects I've worked on.
+- I'm a Software Engineer specializing in Python Backend Development, with a strong passion for DevOps and infrastructure automation.
+My primary focus is on Linux server administration, Docker, Git, deployment workflows, and building reliable, scalable backend systems. I also work with MySQL, Redis, and server management tools like cPanel.
+I'm continuously learning and exploring DevOps practices, automation, and infrastructure management to improve application reliability and streamline development and deployment processes.
+I enjoy solving technical challenges, building efficient systems, and turning ideas into practical, production-ready solutions.
 
 </p>
 
